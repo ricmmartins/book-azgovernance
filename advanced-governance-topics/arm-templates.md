@@ -1,6 +1,6 @@
 # ARM Templates
 
-![](.gitbook/assets/arm-template.png)
+![](../.gitbook/assets/arm-template.png)
 
 Azure Resource Manager Templates are JSON files used to automate the deployment of Azure environments using infrastructure as code. With the use of infrastructure as code, the code repository for your project's applications now also has the way to deploy all the infrastructure required by your application in a coded, repeatable and versioned manner in the same way as the applications themselves.
 

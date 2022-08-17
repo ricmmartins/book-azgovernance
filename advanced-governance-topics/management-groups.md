@@ -6,7 +6,7 @@ Everything you do, from setting RBAC rules to resources, to Azure Policy to Blue
 
 Let's say a SOC team applies a set of security controls at the top to protect the entire environment. The problem today is that subscription owners can remove any control at the subscription level, and you often make development teams owners of the subscription just because they need that flexibility. With Management Groups this problem does not occur, as owners will not be able to remove inherited permissions from the top level.
 
-![](<.gitbook/assets/management-group-1 (2).png>)
+![](<../.gitbook/assets/management-group-1 (2).png>)
 
 * Creation of customized management hierarchies to suit your organization
 * Use of RBAC, tagging policies, cost analysis, and budgets in any scope
@@ -18,7 +18,7 @@ Another benefit of Management Groups is that if you made the wrong decisions set
 
 You can also define a more strict set of controls in production env vs test/pre-prod for example. Or you may have a more cost-sensitive control in your test env. Or you can totally isolate your test environment from the Internet…
 
-![](.gitbook/assets/management-group-2.png)
+![](../.gitbook/assets/management-group-2.png)
 
 **Reference:**
 

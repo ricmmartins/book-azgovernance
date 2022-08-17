@@ -21,14 +21,11 @@
 * [Azure Policy](advanced-governance-topics/azure-policy/README.md)
   * [Azure Policy best practices](advanced-governance-topics/azure-policy/azure-policy-best-practices.md)
   * [Governance suggested policies](advanced-governance-topics/azure-policy/governance-suggested-policies.md)
-
-***
-
-* [ARM Templates](arm-templates.md)
-* [Azure Blueprints](azure-blueprints.md)
-* [Azure Resource Graph](azure-resource-graph.md)
-* [Management Groups](management-groups.md)
-* [Cost Management](cost-management.md)
+* [ARM Templates](advanced-governance-topics/arm-templates.md)
+* [Azure Blueprints](advanced-governance-topics/azure-blueprints.md)
+* [Azure Resource Graph](advanced-governance-topics/azure-resource-graph.md)
+* [Management Groups](advanced-governance-topics/management-groups.md)
+* [Cost Management](advanced-governance-topics/cost-management.md)
 
 ## Conclusion
 

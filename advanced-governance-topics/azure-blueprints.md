@@ -1,6 +1,6 @@
 # Azure Blueprints
 
-![](.gitbook/assets/azure-blueprints-1.png)
+![](../.gitbook/assets/azure-blueprints-1.png)
 
 How can you bring everything that has already been discussed in a structured way, so that you can configure your environment in a consistent and automated way, at scale in the shortest possible time?
 
@@ -18,11 +18,11 @@ So, here are some of the main challenges for customers when designing and config
 
 Azure Blueprints allows you to implement Governance as Code.
 
-![](.gitbook/assets/azure-blueprints-2.png)
+![](../.gitbook/assets/azure-blueprints-2.png)
 
 How Azure Blueprints works:
 
-![](.gitbook/assets/azure-blueprints-3.png)
+![](../.gitbook/assets/azure-blueprints-3.png)
 
 **Reference:**&#x20;
 

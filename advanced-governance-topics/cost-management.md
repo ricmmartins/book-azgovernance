@@ -1,6 +1,6 @@
 # Cost Management
 
-![](.gitbook/assets/cost-management.png)
+![](../.gitbook/assets/cost-management.png)
 
 Azure Cost Management is the tool for managing the cost governance of an environment.
 
