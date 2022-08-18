@@ -52,6 +52,6 @@ Feel free to reach out to me and share any feedback you may have!&#x20;
 * [LinkedIn](https://www.linkedin.com/in/ricmmartins)
 * [GitHub](https://github.com/ricmmartins/)
 
-👋 **Ricardo Martins**\
+👋 **Ricardo Martins**
 
 
