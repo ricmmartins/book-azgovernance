@@ -18,9 +18,28 @@ The AzGovViz (Azure governance visualizer) is a PowerShell script that iterates 
 
 ![](../.gitbook/assets/HierarchyMap.png)
 
-## Azure Monitor Workbook for Landing Zone
+## Azure Workbook for Landing Zone Review
 
 We have a Landing Zone [Workbook](https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview) you can deploy to your environment to validate the usage of all Azure CAF best practices. Is [available here](https://github.com/Azure/fta-landingzone/tree/main/LZReview) and is highly recommended to use.
+
+The aim of this workbook is to visualise core components of an Azure Landing Zone with the focus on the core components. This workbook currently visualises the following checks:
+* Governance
+    * Subscription health
+    * Tag use
+    * Policy Assignments
+    * Resource Locks use
+    * Azure Security Center/Defender status + Secure Score
+    * Azure Monitor components + Log Analytics workspaces
+* Identity and RBAC
+    * Azure Advisor findings around Identity and Access
+* Networking
+    * Subnets without NSGs
+    * Virtual Network Gateways
+* Compute
+    * Virtual Machines wih public IP addresses directly assigned
+    * Virtual Machines with unmanaged disks
+* Storage
+    * Storage accounts with Secure Transfer Only disabled
 
 ## PSRule for Azure
 
