@@ -7,7 +7,7 @@
 * [Governance Overview](basic-governance-topics/governance-overview/README.md)
   * [Overview of Azure native features for cloud governance](basic-governance-topics/governance-overview/overview-of-azure-native-features-for-cloud-governance.md)
   * [Governance Architecture in Azure](basic-governance-topics/governance-overview/governance-architecture-in-azure.md)
-* [Azure Active Directory](basic-governance-topics/azure-active-directory.md)
+* [Azure Active Directory (Entra ID)](basic-governance-topics/azure-active-directory.md)
 * [Naming standards](basic-governance-topics/naming-standards.md)
 * [Azure Subscription](basic-governance-topics/azure-subscription/README.md)
   * [Overview of Enterprise Scale Landing Zones](basic-governance-topics/azure-subscription/overview-of-enterprise-scale-landing-zones.md)

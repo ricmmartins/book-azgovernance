@@ -52,7 +52,7 @@ Here is a list of suggested policies you can apply in your environment in order 
 _Please note that if you decide to enable the Azure Security Center built-in initiatives, be on the lookout for overlapping conflicts._ [_See here_](https://docs.microsoft.com/en-us/azure/security-center/policy-reference) _the Azure Policy built-in definitions for Azure Security Center_
 {% endhint %}
 
-__
+
 
 **A maximum of 3 owners should be designated for your subscription:** It is recommended to designate up to 3 subscription owners in order to reduce the potential for breach by a compromised owner.
 

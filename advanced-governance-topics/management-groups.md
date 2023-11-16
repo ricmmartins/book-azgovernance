@@ -28,7 +28,7 @@ Organize your resources with management groups
 
 {% hint style="info" %}
 **Pro tip!**\
-****:white\_check\_mark: [Manage users and groups in Azure Active Directory](https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/)
+:white\_check\_mark: [Manage users and groups in Azure Active Directory](https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/)
 {% endhint %}
 
 \

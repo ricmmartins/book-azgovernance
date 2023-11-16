@@ -19,5 +19,5 @@ Terraform on Azure documentation
 {% hint style="info" %}
 **Pro tip!**
 
-:white\_check\_mark: **** [Deploy and manage resources in Azure by using JSON ARM templates](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/)
+:white\_check\_mark: [Deploy and manage resources in Azure by using JSON ARM templates](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/)
 {% endhint %}

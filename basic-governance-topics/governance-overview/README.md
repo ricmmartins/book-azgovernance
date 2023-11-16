@@ -15,16 +15,16 @@ How did the industry react to this expansion? We jumped in front of the develope
 ![Traditional approach, sacrificing speed for control
 ](../../.gitbook/assets/traditional-approach.png)
 
-However, this approach in the cloud age slows things down and you sacrifice speed to be in control.
+However, this approach in the cloud age slows things down and you sacrifice speed to be in control.&#x20;
 
-In a cloud-native governance model, you get both speed and control at the same time. So instead of jumping in front of the DevOps team to make sure they’re doing the right things, the cloud platform itself will enforce that control on your behalf. This allows them to have full access to the platform through a self-service model that is essential to maintain agility and speed.
+In a cloud-native governance model, you get both speed and control at the same time. So instead of jumping in front of the DevOps team to make sure they’re doing the right things, the cloud platform itself will enforce that control on your behalf. This allows them to have full access to the platform through a self-service model that is essential to maintain agility and speed.&#x20;
 
 You can guarantee that your teams will deploy only approved resources and anything outside these rules will be effectively denied. That way, you keep your costs predictable and more in line with your budget.
 
 ![Native cloud governance model, with speed and control together
 ](../../.gitbook/assets/cloud-governance-approach.png)
 
-Aligned with governance it's important to have a well-defined structure around responsibilities across different teams, especially if you are migrating from a traditional approach to a cloud approach. That said, you should take a look into those references to help you mature team structures and align responsibilities within them:
+Aligned with governance it' s important to have a well-defined structure around responsibilities across different teams, especially if you are migrating from a traditional approach to a cloud approach. That said, you should take a look into those references to help you mature team structures and align responsibilities within them:
 
 {% embed url="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures" %}
 Mature team structures

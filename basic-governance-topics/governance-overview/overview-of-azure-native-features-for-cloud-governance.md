@@ -10,6 +10,6 @@ The resources we have in the Azure portfolio to deliver this level of control ar
 
 **Resource Graph:** This is a Big Data technology where we bring the configurations of all your resources from your cloud environment and offer you, through a structured query language, the ability to explore your environment very quickly, allowing visibility at scale over all your environment.
 
-**Management Group:** If your organization has many subscriptions, you may need a way to efficiently manage access, policies and compliance for those subscriptions. This can be done through the Management Group.
+**Management Group:** If your organization has many subscriptions, you may need a way to efficiently manage access, policies, and compliance for those subscriptions. This can be done through the Management Group.
 
-**Cost Management:** Helps you understand your Azure invoice, monitor and control spending, and optimize resource usage. It allows you to analyze costs, create and manage budgets, export data, examine recommendations and act on them.
+**Cost Management:** Helps you understand your Azure invoice, monitor, and control spending, and optimize resource usage. It allows you to analyze costs, create and manage budgets, export data, examine recommendations, and act on them.

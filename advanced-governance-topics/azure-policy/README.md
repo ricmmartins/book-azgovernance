@@ -11,7 +11,7 @@ Azure Policy is a service that you use to create, assign and manage policy defin
 The policy focuses on the properties of resources during deployment and for existing resources. It performs an assessment of your resources, checking those that do not conform to the policy definitions you have. A very interesting new feature is the VM guest policy which extends the policy's capacity to the resources running within your VMs.
 
 **Reference:**\
-****
+
 
 {% embed url="https://docs.microsoft.com/en-us/azure/governance/policy/overview" %}
 Overview of Azure Policy\

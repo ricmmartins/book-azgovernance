@@ -2,18 +2,18 @@
 
 Ask yourself these 3 questions and work from them when defining your policies
 
-* What drives your need for policy?
+* **What drives your need for policy?**
   * Regulatory Compliance
   * Controlling cost
   * Standards & Tagging
   * Maintain security and performance consistency
   * Enforce enterprise-wide design principles
-* Who owns the policy settings?
+* **Who owns the policy settings?**
   * “Initiative" owners
   * Security Architect
   * Cloud Architect
   * Cloud Engineers
-* What is involved in defining a new policy or refining an existing one?
+* **What is involved in defining a new policy or refining an existing one?**
   * Research or gather evidence on the impact of a particular configuration on a particular fundamental (like cost or security)
   * What-if analysis of enforcing configuration in a particular manner
   * Assess the current state of compliance to understand the impact of the new policy and what exceptions are needed

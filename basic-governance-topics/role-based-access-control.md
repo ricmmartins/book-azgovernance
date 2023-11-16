@@ -35,5 +35,5 @@ Management Group is a feature of Azure to facilitate the management of access an
 
 {% hint style="info" %}
 **Pro tip!**\
-****:white\_check\_mark: [Manage access to an Azure subscription by using Azure role-based access control](https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/)
+:white\_check\_mark: [Manage access to an Azure subscription by using Azure role-based access control](https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/)
 {% endhint %}
