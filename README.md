@@ -10,6 +10,8 @@ This content was made with the aim of raising awareness about the resources avai
 
 It will be divided into two parts, the first dealing with more basic topics and the second part dealing with advanced topics within this context.
 
+A PDF version of this eBook is [available here.](https://github.com/ricmmartins/book-azgovernance/blob/1aec28831346b00aeb756a47ea6e40edd6805599/Azure%20Governance%20-%20Ebook.pdf)
+
 ## Basic Governance Topics
 
 * [Governance Overview](basic-governance-topics/governance-overview/)
